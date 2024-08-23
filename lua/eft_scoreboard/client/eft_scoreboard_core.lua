@@ -5,8 +5,6 @@ EFT_Scoreboard.InfoBar = EFT_Scoreboard.InfoBar or {}
 EFT_Scoreboard.Player = EFT_Scoreboard.Player or {}
 EFT_Scoreboard.playerConnectionTime = EFT_Scoreboard.playerConnectionTime or {}
 
-
-
 local blurIntensity = 3
 
 local scrw, scrh = ScrW(), ScrH()
